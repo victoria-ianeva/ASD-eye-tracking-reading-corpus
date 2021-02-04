@@ -17,3 +17,17 @@ There are 20 texts used as stimuli for the data collection, nine of which were u
 Task Descriptions, Forms and Questionnaires
 
 This folder contains the consent form which had to be signed by each particiant, a copy of the demographic questionnaire and an easy-to-read version of the task description. The participant information sheet and the PDF file containing the formal ethical approval are not included in order to preserve anonymity.
+
+To cite this resource:
+
+BibTex:
+
+@phdthesis{yaneva2016assessing,
+
+title={Assessing text and web accessibility for people with autism spectrum disorder},
+
+author={Yaneva, Victoria},
+
+year={2016}
+
+}
